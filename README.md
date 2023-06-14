@@ -1,6 +1,6 @@
 # AIB Transactions Viewer for Linux
 
-## Still under construction!
+Functional but still being ironed out for first release!
 
 ## Screenshots
 
